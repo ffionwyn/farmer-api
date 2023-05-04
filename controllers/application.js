@@ -7,7 +7,7 @@ export function postApplication(req, res, next) {
   data['application'].push(req.body);
   fs.writeFile('controllers/data.json', JSON.stringify(data, null, 2), err => {
     if (err) {
-      console.log("Error writing file:", err)
+      console.log("error writing file:", err)
       return
     };
   });
@@ -43,3 +43,18 @@ export const deleteApplication = (req, res) => {
   });
 };
 
+export const updateFarmerID = (req, res) => {
+  const id = req.params.id;
+  const applicationIndex = data.application.findIndex(app => app.id == id);
+  if (index == null) {
+    console.log("application not in system");
+  }
+  data.application[applicationIndex].farmer_id = updatedApplication.farmer_id;
+
+  fs.writeFile('controllers/data.json', JSON.stringify(data, null, 2), err => {
+    if (err) {
+      console.log("error writing file:", err);
+    }
+    return res.json(data.application[applicationIndex]);
+  });
+};
