@@ -18,15 +18,13 @@ export function getFarmers(req, res, next) {
   return res.json(data.farmer)
 }
 
-export const getFarmerByName = (req, res) => {
-  const name = req.params.name;
-  const farmer = data.farmers.find(farmer => farmer.name === name);
-  
-  if (!farmer) {
-    return res.json({ message: "farmer not found in system" });
-  } else {
-    return res.json(farmer);
-  }
-};
+export function getAllFarmerInfo(req, res, next) {
+  const id = req.params.id;
+  const farmer = data.farmer.find(farmer => { return farmer.id == id });
+  const farm = data.farm.find(farm => { return farm.id == farmer.farm_id });
+
+  const farmerAndFarmTogether = [farmer,farm];
+  return res.json(farmerAndFarmTogether)
+}
 
 
