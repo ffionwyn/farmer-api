@@ -43,12 +43,14 @@ export const deleteApplication = (req, res) => {
   });
 };
 
-export const updateFarmerID = (req, res) => {
+export const updateApplication = (req, res) => {
   const id = req.params.id;
   const applicationIndex = data.application.findIndex(app => app.id == id);
   if (index == null) {
     console.log("application not in system");
   }
+  const updatedApplication = req.body;
+  data.application[applicationIndex].amount_requested = updatedApplication.amount_requested;
   data.application[applicationIndex].farmer_id = updatedApplication.farmer_id;
 
   fs.writeFile('controllers/data.json', JSON.stringify(data, null, 2), err => {
@@ -58,3 +60,4 @@ export const updateFarmerID = (req, res) => {
     return res.json(data.application[applicationIndex]);
   });
 };
+
