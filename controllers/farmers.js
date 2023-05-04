@@ -15,7 +15,15 @@ export function postFarmers(req, res, next) {
 }
 
 export function getFarmers(req, res, next) {
-  return res.json(data.farmer)
+  const limit = req.query.limit != null ? req.query.limit : 30;
+  const start = req.query.start != null ? req.query.start : 0;
+  const farmers = data.farmer.slice(start, limit)
+
+  const farmersLeft = data.farmer.length - start 
+  const hasMore = { "hasMore": farmersLeft > limit }
+
+  farmers.push(hasMore)
+  return res.json(farmers)
 }
 
 export function getAllFarmerInfo(req, res, next) {
