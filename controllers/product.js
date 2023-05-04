@@ -8,7 +8,7 @@ export function getProduct(req, res, next) {
 }
 
 export function postProduct(req, res, next) {
-  data['application'].push(req.body);
+  data['product'].push(req.body);
   fs.writeFile('controllers/data.json', JSON.stringify(data, null, 2), err => {
     if (err) {
       console.log("Error writing file:", err)
