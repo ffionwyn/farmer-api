@@ -2001,44 +2001,12 @@
       "farmer_id": 1832497
     },
     {
-      "id": 1999999,
-      "type": "ffion",
-      "amount_requested": 586100,
+      "id": 1291540,
+      "type": "flexi_credit",
+      "amount_requested": 21200,
       "status": "declined",
-      "product_id": 14350041,
-      "farmer_id": 12152001
-    },
-    {
-      "id": 1999999,
-      "type": "ffion",
-      "amount_requested": 586100,
-      "status": "declined",
-      "product_id": 14350041,
-      "farmer_id": 12152001
-    },
-    {
-      "id": 1999999,
-      "type": "ffion",
-      "amount_requested": 586100,
-      "status": "declined",
-      "product_id": 14350041,
-      "farmer_id": 12152001
-    },
-    {
-      "id": 1999999,
-      "type": "ffion",
-      "amount_requested": 586100,
-      "status": "declined",
-      "product_id": 14350041,
-      "farmer_id": 12152001
-    },
-    {
-      "id": 1999999,
-      "type": "ffion",
-      "amount_requested": 586100,
-      "status": "declined",
-      "product_id": 14350041,
-      "farmer_id": 12152001
+      "product_id": 1435004,
+      "farmer_id": 1628957
     }
   ],
   "farmer": [
