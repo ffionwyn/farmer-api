@@ -3,10 +3,6 @@ const data = JSON.parse(
   fs.readFileSync('controllers/data.json')
 );
 
-export function getApplication(req, res, next) {
-  return res.json(data.application)
-}
-
 export function postApplication(req, res, next) {
   data['application'].push(req.body);
   fs.writeFile('controllers/data.json', JSON.stringify(data, null, 2), err => {
@@ -17,3 +13,18 @@ export function postApplication(req, res, next) {
   });
   return res.json(data)
 }
+
+export function getApplication(req, res, next) {
+  return res.json(data.application)
+}
+
+export const getApplicationByID = (req, res) => {
+  const id = req.params.id;
+  const application = data.application.find(app => { return app.id == id });
+  if (application == null) {
+    console.log("application not in system")
+    return
+  }
+  else return res.json(application);
+    };
+

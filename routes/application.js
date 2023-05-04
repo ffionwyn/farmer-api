@@ -3,8 +3,8 @@ import { getApplication, getApplicationByID, postApplication } from "../controll
 
 const router = Router();
 
-router.get("/", getApplication);
 router.get("/:id", getApplicationByID);
+router.get("/", getApplication);
 router.post("/", postApplication);
 
 export default router;
