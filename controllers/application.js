@@ -26,5 +26,20 @@ export const getApplicationByID = (req, res) => {
     return
   }
   else return res.json(application);
-    };
+};
+    
+export const deleteApplication = (req, res) => {
+  const id = req.params.id;
+  const index = data.application.findIndex(app => app.id == id);
+  if (index == null) {
+    console.log("application not in system");
+  }
+  data.application.splice(index, 1);
+  fs.writeFile('controllers/data.json', JSON.stringify(data, null, 2), err => {
+    if (err) {
+      console.log("error writing file:", err);
+    }
+    return res.json(data);
+  });
+};
 

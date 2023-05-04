@@ -20,9 +20,9 @@ export function getFarmers(req, res, next) {
   const farmers = data.farmer.slice(start, limit)
 
   const farmersLeft = data.farmer.length - start 
-  const hasMore = { "hasMore": farmersLeft > limit }
+  const seeMore = { "seeMore": farmersLeft > limit }
 
-  farmers.push(hasMore)
+  farmers.push(seeMore)
   return res.json(farmers)
 }
 
