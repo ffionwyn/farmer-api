@@ -33,7 +33,7 @@ export const getApplicationByID = (req, res) => {
   const id = req.params.id;
   const application = data.application.find(app => { return app.id == id });
     if (application == null) {
-      console.log("application not in system")
+      console.log("Application not in system")
       return res.status(404).json({ error: "Application Not Found" });
     }
     else {
