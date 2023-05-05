@@ -3,14 +3,15 @@
     {
       "id": 1052768,
       "type": "flexi_credit",
+      "amount_requested": 58600.0,
       "status": "declined",
       "product_id": 1435004,
-      "farmer_id": 9999999
+      "farmer_id": 1215200
     },
     {
       "id": 1291540,
       "type": "flexi_credit",
-      "amount_requested": 21200,
+      "amount_requested": 21200.0,
       "status": "declined",
       "product_id": 1435004,
       "farmer_id": 1628957
@@ -18,7 +19,7 @@
     {
       "id": 1070891,
       "type": "flexi_credit",
-      "amount_requested": 50500,
+      "amount_requested": 50500.0,
       "status": "declined",
       "product_id": 1435004,
       "farmer_id": 1135820
@@ -26,7 +27,7 @@
     {
       "id": 1153117,
       "type": "loan",
-      "amount_requested": 3120000,
+      "amount_requested": 3120000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1654759
@@ -58,7 +59,7 @@
     {
       "id": 1083105,
       "type": "loan",
-      "amount_requested": 9380000,
+      "amount_requested": 9380000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1980236
@@ -66,7 +67,7 @@
     {
       "id": 1475282,
       "type": "flexi_credit",
-      "amount_requested": 58200,
+      "amount_requested": 58200.0,
       "status": "in_progress",
       "product_id": 1435004,
       "farmer_id": 1022232
@@ -74,7 +75,7 @@
     {
       "id": 1024039,
       "type": "loan",
-      "amount_requested": 4870000,
+      "amount_requested": 4870000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1312725
@@ -82,7 +83,7 @@
     {
       "id": 1758320,
       "type": "flexi_credit",
-      "amount_requested": 12400,
+      "amount_requested": 12400.0,
       "status": "declined",
       "product_id": 1435004,
       "farmer_id": 1891004
@@ -90,7 +91,7 @@
     {
       "id": 1912190,
       "type": "flexi_credit",
-      "amount_requested": 45600,
+      "amount_requested": 45600.0,
       "status": "declined",
       "product_id": 1435004,
       "farmer_id": 1636225
@@ -98,7 +99,7 @@
     {
       "id": 1618343,
       "type": "loan",
-      "amount_requested": 1740000,
+      "amount_requested": 1740000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1880293
@@ -106,7 +107,7 @@
     {
       "id": 1741207,
       "type": "loan",
-      "amount_requested": 4000000,
+      "amount_requested": 4000000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1203443
@@ -114,7 +115,7 @@
     {
       "id": 1794496,
       "type": "loan",
-      "amount_requested": 6440000,
+      "amount_requested": 6440000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1581462
@@ -130,7 +131,7 @@
     {
       "id": 1440281,
       "type": "loan",
-      "amount_requested": 6080000,
+      "amount_requested": 6080000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1779071
@@ -146,7 +147,7 @@
     {
       "id": 1830547,
       "type": "loan",
-      "amount_requested": 2830000,
+      "amount_requested": 2830000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1186514
@@ -154,7 +155,7 @@
     {
       "id": 1812830,
       "type": "loan",
-      "amount_requested": 6910000,
+      "amount_requested": 6910000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1649507
@@ -170,7 +171,7 @@
     {
       "id": 1723054,
       "type": "loan",
-      "amount_requested": 480000,
+      "amount_requested": 480000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1392260
@@ -186,7 +187,7 @@
     {
       "id": 1072872,
       "type": "flexi_credit",
-      "amount_requested": 13600,
+      "amount_requested": 13600.0,
       "status": "in_progress",
       "product_id": 1435004,
       "farmer_id": 1895287
@@ -202,7 +203,7 @@
     {
       "id": 1993225,
       "type": "loan",
-      "amount_requested": 5380000,
+      "amount_requested": 5380000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1512804
@@ -226,7 +227,7 @@
     {
       "id": 1045422,
       "type": "loan",
-      "amount_requested": 3770000,
+      "amount_requested": 3770000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1321098
@@ -242,7 +243,7 @@
     {
       "id": 1805769,
       "type": "flexi_credit",
-      "amount_requested": 91500,
+      "amount_requested": 91500.0,
       "status": "approved",
       "product_id": 1435004,
       "farmer_id": 1532136
@@ -250,7 +251,7 @@
     {
       "id": 1555062,
       "type": "flexi_credit",
-      "amount_requested": 41900,
+      "amount_requested": 41900.0,
       "status": "in_progress",
       "product_id": 1435004,
       "farmer_id": 1819164
@@ -258,7 +259,7 @@
     {
       "id": 1932952,
       "type": "loan",
-      "amount_requested": 5680000,
+      "amount_requested": 5680000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1002748
@@ -274,7 +275,7 @@
     {
       "id": 1043894,
       "type": "loan",
-      "amount_requested": 2490000,
+      "amount_requested": 2490000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1691313
@@ -282,7 +283,7 @@
     {
       "id": 1328657,
       "type": "flexi_credit",
-      "amount_requested": 41700,
+      "amount_requested": 41700.0,
       "status": "declined",
       "product_id": 1435004,
       "farmer_id": 1726250
@@ -290,7 +291,7 @@
     {
       "id": 1570778,
       "type": "loan",
-      "amount_requested": 4590000,
+      "amount_requested": 4590000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1116515
@@ -298,7 +299,7 @@
     {
       "id": 1723328,
       "type": "flexi_credit",
-      "amount_requested": 55000,
+      "amount_requested": 55000.0,
       "status": "declined",
       "product_id": 1435004,
       "farmer_id": 1275496
@@ -306,7 +307,7 @@
     {
       "id": 1686190,
       "type": "loan",
-      "amount_requested": 7540000,
+      "amount_requested": 7540000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1654179
@@ -330,7 +331,7 @@
     {
       "id": 1344787,
       "type": "loan",
-      "amount_requested": 3540000,
+      "amount_requested": 3540000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1409239
@@ -346,7 +347,7 @@
     {
       "id": 1555128,
       "type": "loan",
-      "amount_requested": 3890000,
+      "amount_requested": 3890000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1548979
@@ -362,7 +363,7 @@
     {
       "id": 1753785,
       "type": "loan",
-      "amount_requested": 1040000,
+      "amount_requested": 1040000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1684495
@@ -378,7 +379,7 @@
     {
       "id": 1016256,
       "type": "flexi_credit",
-      "amount_requested": 58700,
+      "amount_requested": 58700.0,
       "status": "in_progress",
       "product_id": 1435004,
       "farmer_id": 1008361
@@ -386,7 +387,7 @@
     {
       "id": 1705381,
       "type": "loan",
-      "amount_requested": 9280000,
+      "amount_requested": 9280000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1389053
@@ -402,7 +403,7 @@
     {
       "id": 1439185,
       "type": "loan",
-      "amount_requested": 9130000,
+      "amount_requested": 9130000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1252257
@@ -410,7 +411,7 @@
     {
       "id": 1256114,
       "type": "loan",
-      "amount_requested": 6900000,
+      "amount_requested": 6900000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1222449
@@ -418,7 +419,7 @@
     {
       "id": 1792213,
       "type": "loan",
-      "amount_requested": 2170000,
+      "amount_requested": 2170000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1504530
@@ -434,7 +435,7 @@
     {
       "id": 1471277,
       "type": "loan",
-      "amount_requested": 8390000,
+      "amount_requested": 8390000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1681043
@@ -442,7 +443,7 @@
     {
       "id": 1169812,
       "type": "loan",
-      "amount_requested": 4140000,
+      "amount_requested": 4140000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1058897
@@ -450,7 +451,7 @@
     {
       "id": 1390806,
       "type": "loan",
-      "amount_requested": 4300000,
+      "amount_requested": 4300000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1880293
@@ -474,7 +475,7 @@
     {
       "id": 1905089,
       "type": "loan",
-      "amount_requested": 6170000,
+      "amount_requested": 6170000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1928910
@@ -482,7 +483,7 @@
     {
       "id": 1969105,
       "type": "loan",
-      "amount_requested": 1530000,
+      "amount_requested": 1530000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1524175
@@ -514,7 +515,7 @@
     {
       "id": 1548422,
       "type": "loan",
-      "amount_requested": 5370000,
+      "amount_requested": 5370000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1371925
@@ -546,7 +547,7 @@
     {
       "id": 1772609,
       "type": "flexi_credit",
-      "amount_requested": 11800,
+      "amount_requested": 11800.0,
       "status": "in_progress",
       "product_id": 1435004,
       "farmer_id": 1215200
@@ -554,7 +555,7 @@
     {
       "id": 1116396,
       "type": "loan",
-      "amount_requested": 6560000,
+      "amount_requested": 6560000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1507144
@@ -562,7 +563,7 @@
     {
       "id": 1931213,
       "type": "loan",
-      "amount_requested": 7110000,
+      "amount_requested": 7110000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1844866
@@ -578,7 +579,7 @@
     {
       "id": 1861758,
       "type": "flexi_credit",
-      "amount_requested": 91000,
+      "amount_requested": 91000.0,
       "status": "declined",
       "product_id": 1435004,
       "farmer_id": 1409239
@@ -586,7 +587,7 @@
     {
       "id": 1611386,
       "type": "loan",
-      "amount_requested": 8540000,
+      "amount_requested": 8540000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1913879
@@ -594,7 +595,7 @@
     {
       "id": 1477417,
       "type": "flexi_credit",
-      "amount_requested": 41600,
+      "amount_requested": 41600.0,
       "status": "approved",
       "product_id": 1435004,
       "farmer_id": 1581462
@@ -610,7 +611,7 @@
     {
       "id": 1359026,
       "type": "loan",
-      "amount_requested": 2850000,
+      "amount_requested": 2850000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1973919
@@ -626,7 +627,7 @@
     {
       "id": 1605942,
       "type": "loan",
-      "amount_requested": 9720000,
+      "amount_requested": 9720000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1906361
@@ -634,7 +635,7 @@
     {
       "id": 1799485,
       "type": "loan",
-      "amount_requested": 7570000,
+      "amount_requested": 7570000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1587063
@@ -682,7 +683,7 @@
     {
       "id": 1469652,
       "type": "loan",
-      "amount_requested": 5880000,
+      "amount_requested": 5880000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1278342
@@ -698,7 +699,7 @@
     {
       "id": 1746371,
       "type": "flexi_credit",
-      "amount_requested": 47800,
+      "amount_requested": 47800.0,
       "status": "approved",
       "product_id": 1435004,
       "farmer_id": 1844866
@@ -706,7 +707,7 @@
     {
       "id": 1980121,
       "type": "loan",
-      "amount_requested": 2440000,
+      "amount_requested": 2440000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1288647
@@ -714,7 +715,7 @@
     {
       "id": 1519769,
       "type": "flexi_credit",
-      "amount_requested": 2500,
+      "amount_requested": 2500.0,
       "status": "declined",
       "product_id": 1435004,
       "farmer_id": 1247709
@@ -738,7 +739,7 @@
     {
       "id": 1655058,
       "type": "flexi_credit",
-      "amount_requested": 7600,
+      "amount_requested": 7600.0,
       "status": "approved",
       "product_id": 1435004,
       "farmer_id": 1641648
@@ -778,7 +779,7 @@
     {
       "id": 1549651,
       "type": "loan",
-      "amount_requested": 2870000,
+      "amount_requested": 2870000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1022232
@@ -802,7 +803,7 @@
     {
       "id": 1104679,
       "type": "loan",
-      "amount_requested": 3640000,
+      "amount_requested": 3640000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1945189
@@ -826,7 +827,7 @@
     {
       "id": 1747997,
       "type": "flexi_credit",
-      "amount_requested": 49500,
+      "amount_requested": 49500.0,
       "status": "declined",
       "product_id": 1435004,
       "farmer_id": 1334951
@@ -834,7 +835,7 @@
     {
       "id": 1961511,
       "type": "loan",
-      "amount_requested": 560000,
+      "amount_requested": 560000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1067641
@@ -858,7 +859,7 @@
     {
       "id": 1031164,
       "type": "loan",
-      "amount_requested": 3490000,
+      "amount_requested": 3490000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1037623
@@ -874,7 +875,7 @@
     {
       "id": 1076685,
       "type": "loan",
-      "amount_requested": 8050000,
+      "amount_requested": 8050000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1681043
@@ -882,7 +883,7 @@
     {
       "id": 1606394,
       "type": "loan",
-      "amount_requested": 4540000,
+      "amount_requested": 4540000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1201029
@@ -890,7 +891,7 @@
     {
       "id": 1468666,
       "type": "loan",
-      "amount_requested": 8780000,
+      "amount_requested": 8780000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1243998
@@ -898,7 +899,7 @@
     {
       "id": 1609868,
       "type": "loan",
-      "amount_requested": 560000,
+      "amount_requested": 560000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1243998
@@ -914,7 +915,7 @@
     {
       "id": 1764293,
       "type": "flexi_credit",
-      "amount_requested": 51300,
+      "amount_requested": 51300.0,
       "status": "declined",
       "product_id": 1435004,
       "farmer_id": 1619223
@@ -922,7 +923,7 @@
     {
       "id": 1355665,
       "type": "loan",
-      "amount_requested": 9810000,
+      "amount_requested": 9810000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1165103
@@ -930,7 +931,7 @@
     {
       "id": 1450504,
       "type": "flexi_credit",
-      "amount_requested": 46000,
+      "amount_requested": 46000.0,
       "status": "declined",
       "product_id": 1435004,
       "farmer_id": 1482981
@@ -938,7 +939,7 @@
     {
       "id": 1332442,
       "type": "loan",
-      "amount_requested": 480000,
+      "amount_requested": 480000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1070918
@@ -946,7 +947,7 @@
     {
       "id": 1991272,
       "type": "flexi_credit",
-      "amount_requested": 24900,
+      "amount_requested": 24900.0,
       "status": "declined",
       "product_id": 1435004,
       "farmer_id": 1582943
@@ -954,7 +955,7 @@
     {
       "id": 1092513,
       "type": "loan",
-      "amount_requested": 6110000,
+      "amount_requested": 6110000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1998590
@@ -978,7 +979,7 @@
     {
       "id": 1482696,
       "type": "loan",
-      "amount_requested": 9960000,
+      "amount_requested": 9960000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1572511
@@ -986,7 +987,7 @@
     {
       "id": 1750813,
       "type": "flexi_credit",
-      "amount_requested": 89700,
+      "amount_requested": 89700.0,
       "status": "in_progress",
       "product_id": 1435004,
       "farmer_id": 1895287
@@ -994,7 +995,7 @@
     {
       "id": 1495814,
       "type": "loan",
-      "amount_requested": 3680000,
+      "amount_requested": 3680000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1889521
@@ -1010,7 +1011,7 @@
     {
       "id": 1349825,
       "type": "flexi_credit",
-      "amount_requested": 44600,
+      "amount_requested": 44600.0,
       "status": "approved",
       "product_id": 1435004,
       "farmer_id": 1015517
@@ -1018,7 +1019,7 @@
     {
       "id": 1929445,
       "type": "loan",
-      "amount_requested": 8850000,
+      "amount_requested": 8850000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1257595
@@ -1050,7 +1051,7 @@
     {
       "id": 1522619,
       "type": "loan",
-      "amount_requested": 7420000,
+      "amount_requested": 7420000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1312725
@@ -1058,7 +1059,7 @@
     {
       "id": 1825945,
       "type": "flexi_credit",
-      "amount_requested": 71700,
+      "amount_requested": 71700.0,
       "status": "declined",
       "product_id": 1435004,
       "farmer_id": 1171669
@@ -1066,7 +1067,7 @@
     {
       "id": 1099150,
       "type": "flexi_credit",
-      "amount_requested": 82200,
+      "amount_requested": 82200.0,
       "status": "in_progress",
       "product_id": 1435004,
       "farmer_id": 1686175
@@ -1074,7 +1075,7 @@
     {
       "id": 1073518,
       "type": "loan",
-      "amount_requested": 5050000,
+      "amount_requested": 5050000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1275496
@@ -1098,7 +1099,7 @@
     {
       "id": 1385803,
       "type": "loan",
-      "amount_requested": 7290000,
+      "amount_requested": 7290000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1980236
@@ -1106,7 +1107,7 @@
     {
       "id": 1642641,
       "type": "loan",
-      "amount_requested": 5790000,
+      "amount_requested": 5790000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1411874
@@ -1114,7 +1115,7 @@
     {
       "id": 1753325,
       "type": "flexi_credit",
-      "amount_requested": 12900,
+      "amount_requested": 12900.0,
       "status": "in_progress",
       "product_id": 1435004,
       "farmer_id": 1587063
@@ -1122,7 +1123,7 @@
     {
       "id": 1325760,
       "type": "loan",
-      "amount_requested": 320000,
+      "amount_requested": 320000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1548843
@@ -1130,7 +1131,7 @@
     {
       "id": 1856725,
       "type": "loan",
-      "amount_requested": 7590000,
+      "amount_requested": 7590000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1658835
@@ -1146,7 +1147,7 @@
     {
       "id": 1350371,
       "type": "loan",
-      "amount_requested": 6880000,
+      "amount_requested": 6880000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1002748
@@ -1154,7 +1155,7 @@
     {
       "id": 1176230,
       "type": "loan",
-      "amount_requested": 6630000,
+      "amount_requested": 6630000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1269838
@@ -1162,7 +1163,7 @@
     {
       "id": 1777705,
       "type": "loan",
-      "amount_requested": 6140000,
+      "amount_requested": 6140000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1278342
@@ -1178,7 +1179,7 @@
     {
       "id": 1167327,
       "type": "loan",
-      "amount_requested": 1490000,
+      "amount_requested": 1490000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1649507
@@ -1186,7 +1187,7 @@
     {
       "id": 1308479,
       "type": "flexi_credit",
-      "amount_requested": 13300,
+      "amount_requested": 13300.0,
       "status": "approved",
       "product_id": 1435004,
       "farmer_id": 1815670
@@ -1194,7 +1195,7 @@
     {
       "id": 1423975,
       "type": "flexi_credit",
-      "amount_requested": 24800,
+      "amount_requested": 24800.0,
       "status": "in_progress",
       "product_id": 1435004,
       "farmer_id": 1947900
@@ -1202,7 +1203,7 @@
     {
       "id": 1692426,
       "type": "flexi_credit",
-      "amount_requested": 32400,
+      "amount_requested": 32400.0,
       "status": "declined",
       "product_id": 1435004,
       "farmer_id": 1889521
@@ -1218,7 +1219,7 @@
     {
       "id": 1335699,
       "type": "loan",
-      "amount_requested": 6290000,
+      "amount_requested": 6290000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1872704
@@ -1226,7 +1227,7 @@
     {
       "id": 1691927,
       "type": "loan",
-      "amount_requested": 3990000,
+      "amount_requested": 3990000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1752918
@@ -1234,7 +1235,7 @@
     {
       "id": 1111752,
       "type": "loan",
-      "amount_requested": 7750000,
+      "amount_requested": 7750000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1371925
@@ -1242,7 +1243,7 @@
     {
       "id": 1695959,
       "type": "loan",
-      "amount_requested": 5400000,
+      "amount_requested": 5400000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1889521
@@ -1250,7 +1251,7 @@
     {
       "id": 1358140,
       "type": "loan",
-      "amount_requested": 5920000,
+      "amount_requested": 5920000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1532136
@@ -1282,7 +1283,7 @@
     {
       "id": 1188543,
       "type": "loan",
-      "amount_requested": 7210000,
+      "amount_requested": 7210000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1748527
@@ -1314,7 +1315,7 @@
     {
       "id": 1485289,
       "type": "loan",
-      "amount_requested": 3100000,
+      "amount_requested": 3100000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1654759
@@ -1322,7 +1323,7 @@
     {
       "id": 1394503,
       "type": "flexi_credit",
-      "amount_requested": 76400,
+      "amount_requested": 76400.0,
       "status": "approved",
       "product_id": 1435004,
       "farmer_id": 1409376
@@ -1330,7 +1331,7 @@
     {
       "id": 1896631,
       "type": "flexi_credit",
-      "amount_requested": 14800,
+      "amount_requested": 14800.0,
       "status": "approved",
       "product_id": 1435004,
       "farmer_id": 1646943
@@ -1346,7 +1347,7 @@
     {
       "id": 1341602,
       "type": "flexi_credit",
-      "amount_requested": 7600,
+      "amount_requested": 7600.0,
       "status": "in_progress",
       "product_id": 1435004,
       "farmer_id": 1249438
@@ -1362,7 +1363,7 @@
     {
       "id": 1444995,
       "type": "loan",
-      "amount_requested": 450000,
+      "amount_requested": 450000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1129251
@@ -1370,7 +1371,7 @@
     {
       "id": 1522642,
       "type": "loan",
-      "amount_requested": 2010000,
+      "amount_requested": 2010000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1799405
@@ -1378,7 +1379,7 @@
     {
       "id": 1673629,
       "type": "flexi_credit",
-      "amount_requested": 51400,
+      "amount_requested": 51400.0,
       "status": "approved",
       "product_id": 1435004,
       "farmer_id": 1129251
@@ -1394,7 +1395,7 @@
     {
       "id": 1745194,
       "type": "loan",
-      "amount_requested": 7440000,
+      "amount_requested": 7440000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1507144
@@ -1410,7 +1411,7 @@
     {
       "id": 1797846,
       "type": "flexi_credit",
-      "amount_requested": 6000,
+      "amount_requested": 6000.0,
       "status": "in_progress",
       "product_id": 1435004,
       "farmer_id": 1849741
@@ -1426,7 +1427,7 @@
     {
       "id": 1871497,
       "type": "flexi_credit",
-      "amount_requested": 77500,
+      "amount_requested": 77500.0,
       "status": "approved",
       "product_id": 1435004,
       "farmer_id": 1928910
@@ -1434,7 +1435,7 @@
     {
       "id": 1216425,
       "type": "flexi_credit",
-      "amount_requested": 56100,
+      "amount_requested": 56100.0,
       "status": "approved",
       "product_id": 1435004,
       "farmer_id": 1190574
@@ -1442,7 +1443,7 @@
     {
       "id": 1123496,
       "type": "flexi_credit",
-      "amount_requested": 99000,
+      "amount_requested": 99000.0,
       "status": "approved",
       "product_id": 1435004,
       "farmer_id": 1649507
@@ -1450,7 +1451,7 @@
     {
       "id": 1243537,
       "type": "loan",
-      "amount_requested": 1920000,
+      "amount_requested": 1920000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1823062
@@ -1458,7 +1459,7 @@
     {
       "id": 1605566,
       "type": "flexi_credit",
-      "amount_requested": 22500,
+      "amount_requested": 22500.0,
       "status": "approved",
       "product_id": 1435004,
       "farmer_id": 1681043
@@ -1482,7 +1483,7 @@
     {
       "id": 1554746,
       "type": "flexi_credit",
-      "amount_requested": 33800,
+      "amount_requested": 33800.0,
       "status": "in_progress",
       "product_id": 1435004,
       "farmer_id": 1409239
@@ -1498,7 +1499,7 @@
     {
       "id": 1521423,
       "type": "loan",
-      "amount_requested": 1320000,
+      "amount_requested": 1320000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1532136
@@ -1506,7 +1507,7 @@
     {
       "id": 1359327,
       "type": "flexi_credit",
-      "amount_requested": 39800,
+      "amount_requested": 39800.0,
       "status": "in_progress",
       "product_id": 1435004,
       "farmer_id": 1489539
@@ -1514,7 +1515,7 @@
     {
       "id": 1239231,
       "type": "loan",
-      "amount_requested": 3470000,
+      "amount_requested": 3470000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1740132
@@ -1538,7 +1539,7 @@
     {
       "id": 1313892,
       "type": "loan",
-      "amount_requested": 9710000,
+      "amount_requested": 9710000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1130247
@@ -1546,7 +1547,7 @@
     {
       "id": 1424019,
       "type": "flexi_credit",
-      "amount_requested": 36100,
+      "amount_requested": 36100.0,
       "status": "approved",
       "product_id": 1435004,
       "farmer_id": 1666917
@@ -1570,7 +1571,7 @@
     {
       "id": 1756057,
       "type": "flexi_credit",
-      "amount_requested": 7700,
+      "amount_requested": 7700.0,
       "status": "in_progress",
       "product_id": 1435004,
       "farmer_id": 1409376
@@ -1618,7 +1619,7 @@
     {
       "id": 1659432,
       "type": "loan",
-      "amount_requested": 4420000,
+      "amount_requested": 4420000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1593316
@@ -1634,7 +1635,7 @@
     {
       "id": 1250187,
       "type": "loan",
-      "amount_requested": 3880000,
+      "amount_requested": 3880000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1748527
@@ -1658,7 +1659,7 @@
     {
       "id": 1736087,
       "type": "loan",
-      "amount_requested": 810000,
+      "amount_requested": 810000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1619002
@@ -1674,7 +1675,7 @@
     {
       "id": 1767514,
       "type": "flexi_credit",
-      "amount_requested": 33300,
+      "amount_requested": 33300.0,
       "status": "in_progress",
       "product_id": 1435004,
       "farmer_id": 1359197
@@ -1682,7 +1683,7 @@
     {
       "id": 1007262,
       "type": "loan",
-      "amount_requested": 9130000,
+      "amount_requested": 9130000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1165925
@@ -1690,7 +1691,7 @@
     {
       "id": 1755162,
       "type": "flexi_credit",
-      "amount_requested": 53200,
+      "amount_requested": 53200.0,
       "status": "approved",
       "product_id": 1435004,
       "farmer_id": 1458022
@@ -1698,7 +1699,7 @@
     {
       "id": 1186629,
       "type": "loan",
-      "amount_requested": 7720000,
+      "amount_requested": 7720000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1037623
@@ -1706,7 +1707,7 @@
     {
       "id": 1422714,
       "type": "loan",
-      "amount_requested": 4580000,
+      "amount_requested": 4580000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1058897
@@ -1722,7 +1723,7 @@
     {
       "id": 1952324,
       "type": "loan",
-      "amount_requested": 6880000,
+      "amount_requested": 6880000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1130247
@@ -1738,7 +1739,7 @@
     {
       "id": 1578606,
       "type": "loan",
-      "amount_requested": 7500000,
+      "amount_requested": 7500000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1019170
@@ -1746,7 +1747,7 @@
     {
       "id": 1768938,
       "type": "loan",
-      "amount_requested": 9330000,
+      "amount_requested": 9330000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1203443
@@ -1754,7 +1755,7 @@
     {
       "id": 1917679,
       "type": "loan",
-      "amount_requested": 8890000,
+      "amount_requested": 8890000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1470430
@@ -1762,7 +1763,7 @@
     {
       "id": 1653058,
       "type": "loan",
-      "amount_requested": 5540000,
+      "amount_requested": 5540000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1138047
@@ -1770,7 +1771,7 @@
     {
       "id": 1078143,
       "type": "loan",
-      "amount_requested": 3760000,
+      "amount_requested": 3760000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1381912
@@ -1786,7 +1787,7 @@
     {
       "id": 1806475,
       "type": "flexi_credit",
-      "amount_requested": 61000,
+      "amount_requested": 61000.0,
       "status": "in_progress",
       "product_id": 1435004,
       "farmer_id": 1772639
@@ -1802,7 +1803,7 @@
     {
       "id": 1071791,
       "type": "loan",
-      "amount_requested": 800000,
+      "amount_requested": 800000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1548979
@@ -1818,7 +1819,7 @@
     {
       "id": 1387980,
       "type": "loan",
-      "amount_requested": 1580000,
+      "amount_requested": 1580000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1488052
@@ -1826,7 +1827,7 @@
     {
       "id": 1162679,
       "type": "flexi_credit",
-      "amount_requested": 17600,
+      "amount_requested": 17600.0,
       "status": "declined",
       "product_id": 1435004,
       "farmer_id": 1323010
@@ -1842,7 +1843,7 @@
     {
       "id": 1370932,
       "type": "loan",
-      "amount_requested": 8950000,
+      "amount_requested": 8950000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1015517
@@ -1850,7 +1851,7 @@
     {
       "id": 1902741,
       "type": "loan",
-      "amount_requested": 8610000,
+      "amount_requested": 8610000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1312725
@@ -1858,7 +1859,7 @@
     {
       "id": 1115176,
       "type": "loan",
-      "amount_requested": 5150000,
+      "amount_requested": 5150000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1190574
@@ -1866,7 +1867,7 @@
     {
       "id": 1688315,
       "type": "flexi_credit",
-      "amount_requested": 90500,
+      "amount_requested": 90500.0,
       "status": "declined",
       "product_id": 1435004,
       "farmer_id": 1507066
@@ -1874,7 +1875,7 @@
     {
       "id": 1262024,
       "type": "loan",
-      "amount_requested": 1450000,
+      "amount_requested": 1450000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1581462
@@ -1898,7 +1899,7 @@
     {
       "id": 1474188,
       "type": "loan",
-      "amount_requested": 2450000,
+      "amount_requested": 2450000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1451375
@@ -1914,7 +1915,7 @@
     {
       "id": 1297308,
       "type": "loan",
-      "amount_requested": 4680000,
+      "amount_requested": 4680000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1116515
@@ -1922,7 +1923,7 @@
     {
       "id": 1835881,
       "type": "loan",
-      "amount_requested": 9900000,
+      "amount_requested": 9900000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1524175
@@ -1930,7 +1931,7 @@
     {
       "id": 1292425,
       "type": "loan",
-      "amount_requested": 1560000,
+      "amount_requested": 1560000.0,
       "status": "approved",
       "product_id": 1523853,
       "farmer_id": 1392260
@@ -1938,7 +1939,7 @@
     {
       "id": 1327170,
       "type": "flexi_credit",
-      "amount_requested": 20100,
+      "amount_requested": 20100.0,
       "status": "declined",
       "product_id": 1435004,
       "farmer_id": 1889521
@@ -1962,7 +1963,7 @@
     {
       "id": 1925601,
       "type": "loan",
-      "amount_requested": 720000,
+      "amount_requested": 720000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1274059
@@ -1970,7 +1971,7 @@
     {
       "id": 1208044,
       "type": "flexi_credit",
-      "amount_requested": 94500,
+      "amount_requested": 94500.0,
       "status": "approved",
       "product_id": 1435004,
       "farmer_id": 1052963
@@ -1978,7 +1979,7 @@
     {
       "id": 1416542,
       "type": "loan",
-      "amount_requested": 3270000,
+      "amount_requested": 3270000.0,
       "status": "in_progress",
       "product_id": 1523853,
       "farmer_id": 1169410
@@ -1986,7 +1987,7 @@
     {
       "id": 1588440,
       "type": "loan",
-      "amount_requested": 380000,
+      "amount_requested": 380000.0,
       "status": "declined",
       "product_id": 1523853,
       "farmer_id": 1839648
@@ -1998,14 +1999,6 @@
       "status": "in_progress",
       "product_id": 1654847,
       "farmer_id": 1832497
-    },
-    {
-      "id": 1291540,
-      "type": "flexi_credit",
-      "amount_requested": 21200,
-      "status": "declined",
-      "product_id": 1435004,
-      "farmer_id": 1628957
     }
   ],
   "farmer": [
@@ -3324,13 +3317,6 @@
       "age": 69,
       "phone_number": "07700900145",
       "farm_id": 1136994
-    },
-    {
-      "id": 11111,
-      "name": "James Miller",
-      "age": 54,
-      "phone_number": "07700900345",
-      "farm_id": 1535538
     }
   ],
   "farm": [
@@ -4336,26 +4322,9 @@
     }
   ],
   "product": [
-    {
-      "id": 1654847,
-      "type": "savings",
-      "name": "45 Day Notice Account"
-    },
-    {
-      "id": 1614351,
-      "type": "savings",
-      "name": "90 Day Notice Account"
-    },
-    {
-      "id": 1523853,
-      "type": "loan",
-      "name": "Term Loan"
-    },
-    {
-      "id": 1435004,
-      "type": "flexi_credit",
-      "name": "Flexible Credit"
-    },
-    {}
+    { "id": 1654847, "type": "savings", "name": "45 Day Notice Account" },
+    { "id": 1614351, "type": "savings", "name": "90 Day Notice Account" },
+    { "id": 1523853, "type": "loan", "name": "Term Loan" },
+    { "id": 1435004, "type": "flexi_credit", "name": "Flexible Credit" }
   ]
 }
