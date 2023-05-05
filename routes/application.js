@@ -7,7 +7,7 @@ router.get("/:id", getApplicationByID);
 router.get("/", getApplication);
 router.post("/", postApplication);
 router.delete("/", deleteApplication)
-router.patch("/:farmerID", updateApplication)
+router.patch("/:id", updateApplication)
 
 export default router;
 

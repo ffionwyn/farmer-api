@@ -3,10 +3,9 @@
     {
       "id": 1052768,
       "type": "flexi_credit",
-      "amount_requested": 58600,
       "status": "declined",
       "product_id": 1435004,
-      "farmer_id": 1215200
+      "farmer_id": 9999999
     },
     {
       "id": 1291540,

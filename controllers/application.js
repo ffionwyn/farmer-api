@@ -46,7 +46,7 @@ export const deleteApplication = (req, res) => {
 export const updateApplication = (req, res) => {
   const id = req.params.id;
   const applicationIndex = data.application.findIndex(app => app.id == id);
-  if (index == null) {
+  if (applicationIndex == null) {
     console.log("application not in system");
   }
   const updatedApplication = req.body;
