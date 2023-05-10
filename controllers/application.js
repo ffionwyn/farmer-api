@@ -3,6 +3,7 @@ const data = JSON.parse(
   fs.readFileSync('controllers/data.json')
 );
 
+// //localhost:6000/application/1111111
 export function postApplication(req, res, next) {
   try {
     data['application'].push(req.body);
@@ -19,6 +20,7 @@ export function postApplication(req, res, next) {
   }
 }
 
+//localhost:6000/application/ 
 export function getApplication(req, res, next) {
   try {
     return res.status(200).json(data.application);
@@ -28,6 +30,7 @@ export function getApplication(req, res, next) {
   }
 }
 
+//localhost:6000/application?id=1052768
 export const getApplicationByID = (req, res) => {
   try {
   const id = req.params.id;
@@ -46,6 +49,7 @@ export const getApplicationByID = (req, res) => {
   }
 };
 
+//localhost:6000/application?id=1052768
 export const deleteApplication = (req, res) => {
   try {
     const id = req.params.id;
@@ -68,6 +72,7 @@ export const deleteApplication = (req, res) => {
   }
 };
 
+//localhost:6000/application/1052768
  export const updateApplication = (req, res) => {
   try {
     const id = req.params.id;

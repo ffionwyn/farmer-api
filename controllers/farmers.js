@@ -19,6 +19,9 @@ export function postFarmers(req, res, next) {
   }
 }
 
+// localhost:6000/farmer (get all farmers)
+// localhost:6000/farmer?limit=2
+// localhost:6000/farmer?limit=2&start=1 - think this is a bug
 export function getFarmers(req, res, next) {
   try {
     const limit = req.query.limit != null ? req.query.limit : 30;
